@@ -9,3 +9,6 @@ The objective:
 1. Explore products currently in inventory.
 2. Determine important factors that may influence inventory reorganization/reduction.
 3. Provide analytic insights and data-driven recommendations.
+
+Here is the Tableau Dashboard relevant to the project:
+https://prod-uk-a.online.tableau.com/t/diyanlijoye613c3af34/views/MINTCLASSICSEDA/Dashboard1
